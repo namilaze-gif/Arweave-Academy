@@ -2,7 +2,7 @@
 
 \### Personal information
 
-- github account: namilaze-gif
+- github account: @namilaze-gif
 - Email: namilaze15@gmail.com
 - Arweave Address: KU3aBNOj1ifuKb3SvSxzuq2LHl1oEz7vo0Q4OtlpPBQ
 - ETH Address: 0x124E52Fa386DA95c10E5656996bf0e2e1141Cc23
